@@ -49,3 +49,8 @@ This project involved creating a dynamic Sales Dashboard for McDonald's using Mi
 - [x]	Adaptability: Make sure the dashboard can be customized to track different sales metrics or periods, allowing it to scale across multiple locations.
 - [x]	Attention to Detail: Ensure accurate data entry, correct formulas, and consistent formatting for the most reliable insights.
 - [x]	Retail and Sales Knowledge: Understand retail sales workflows, key performance indicators (KPIs), and the structure of McDonald's operations to design a dashboard that meets the needs of the team.
+
+
+![EXCEL McDonald's Retailer Dashbord (USA) 1](https://github.com/user-attachments/assets/e43af8e0-735d-437d-8e46-90ad5dc79d3c)
+
+
